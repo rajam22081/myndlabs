@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/rise", "destination": "/rise/index.html" }
+  ]
+}
